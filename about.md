@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Ruby/JavaScript Developer. I have been working as Software Developer for 4+ years.
+I am interested in building quality software and using good engineering practices like TDD/BDD, OO Design Principles and Agile methodologies.
 
-### More Information
+In my free time, I enjoy cycling, running, walking and workout.
 
-A place to include any other types of information that you'd like to include about yourself.
+
+**Key Skills**: Ruby, Rails, JavaScript, AngularJS, MySQL, Postgres, MongoDB, Linux, RSpec, Git, TDD/BDD, OO Design Patterns, REST API, JQuery, Bootstrap, Material Design, CSS, Sass
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kuyseng@gmail.com](mailto:kuyseng@gmail.com)
+[+855 15 325 685](tel:+85515325685)
